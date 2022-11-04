@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Noahkimtai
+- 👋 Hi, I’m @Noah
 - 👀 I’m interested in Software Developement and GIS
 - 🌱 I’m currently learning JavaScript
 - 💞️ I’m looking to collaborate on Web developement and GIS developement projects
