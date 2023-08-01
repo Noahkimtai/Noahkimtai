@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Noah
-- 👀 I’m interested in Software Developement and GIS
-- 🌱 I’m currently learning JavaScript
-- 💞️ I’m looking to collaborate on Web developement and GIS developement projects
+- 👀 I’m interested in Software Developement adn Testing as well GIS.
+- 🌱 I’m currently learning Java
+- 💞️ I’m looking to collaborate on Web developement, QA Engineering and GIS developement projects
 - 📫 How to reach me on [LinkedIn](https://www.linkedin.com/in/noah-chepkwony-1636b715a) 
 
 <!---
