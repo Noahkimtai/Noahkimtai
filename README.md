@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Noah
-- 👀 I’m interested in Software Developement adn Testing as well GIS.
+- 👋 Hi, I’m Noah
+- 👀 I’m interested in Software Developement and QA Engineerin.
 - 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on Web developement, QA Engineering and GIS developement projects
 - 📫 How to reach me on [LinkedIn](https://www.linkedin.com/in/noah-chepkwony-1636b715a) 
